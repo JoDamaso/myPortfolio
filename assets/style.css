@@ -1,0 +1,108 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #d9dcd6;
+}
+
+header {
+    padding: 20px 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: lightslategray;
+    color: white;
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+header h1 {
+    font-size: 48px;
+}
+
+nav {
+    float: right;
+    padding: 10px;
+    margin-right: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+header nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: white;
+    padding: 14px 5px;
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 30px;
+    align-items: center;
+}
+
+h2 {
+    padding: 15px;
+    /* float: right; */
+}
+
+img {
+    border-radius: 60px;
+    width: 300px;
+    /* align-items: center; */
+}
+
+section {
+    background-color: lightslategray;
+    width: 100%;
+}
+
+section p {
+    font-size: 23px;
+}
+
+#john {
+    float: right;
+    /* margin: 0 15px 0 0; */
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+    padding: 50px;
+    margin-top: 50px;
+    border-radius: 15px;
+}
+
+.damaso {
+    width: 75%;
+    display: flex;
+    flex: wrap;
+    margin-left: 20px;
+    padding: 50px;
+    margin-top: 50px;
+    border-radius: 15px;
+    background: lightslategray;
+}
+
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
