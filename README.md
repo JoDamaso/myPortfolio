@@ -1,6 +1,8 @@
 # myPortfolio
 John Damaso's Portfolio
 
+## About This Portfolio
+As my bootcamp continues to unfold, I come back to this repo and update it accordinly. In hopes that this will be my portfolio to showcase for future employers
 
 ## Acceptence Criteria 
 GIVEN I need to sample a potential employee's previous work
