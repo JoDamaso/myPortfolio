@@ -5,13 +5,13 @@
 } */
 
 body {
-    background-color: #d9dcd6;
+    background-color: #98c1d9;
 }
 
 header {
     padding: 20px 35px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: lightslategray;
+    background-color: #3d5a80;
     color: white;
     top: 0;
     width: 100%;
@@ -57,7 +57,7 @@ h2 {
 }
 
 img {
-    border-radius: 60px;
+    border-radius: 10px;
     width: 300px;
     /* align-items: center; */
 }
